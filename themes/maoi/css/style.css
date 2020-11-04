@@ -45,3 +45,48 @@ body {
 .site-footer a {
     color: #f0f0f0;
 }
+
+.logo {
+    float: left;
+}
+
+.logo > a > img {
+    width: 100px;
+    height: 100px;
+    margin-right: 100px;
+}
+
+.title {
+    padding-top: 1em;
+}
+
+.flash-region > .flash-img {
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.social {
+    float: right;
+}
+
+.social > a {
+    padding-left: 15px;
+}
+
+.social > span > img {
+    width: 100px;
+    height: 100px;
+}
+
+.container > .sizeM {
+    width: 80%;
+}
+
+@media (max-width: 980px) {
+    .flash-region > .flash-img {
+        width: 100%;
+        height: 100px;
+        border-radius: 5px;
+    }
+}
