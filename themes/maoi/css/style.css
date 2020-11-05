@@ -66,21 +66,19 @@ body {
     border-radius: 5px;
 }
 
+.container > .sizeM {
+    width: 80%;
+}
+
 .social {
     float: right;
 }
-
-.social > a {
-    padding-left: 15px;
+.social a {
+        padding: 1em;
 }
 
-.social > span > img {
-    width: 100px;
-    height: 100px;
-}
-
-.container > .sizeM {
-    width: 80%;
+.float-left {
+    float: left;
 }
 
 @media (max-width: 980px) {
