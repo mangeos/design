@@ -8,4 +8,7 @@ Social:
     - title: Link till dbwebb.
       url: https://dbwebb.se/kurser/design-v3
       icon: fas fa-leaf
+    - title: Länk till Vimeo
+      url: https://Vimeo.com
+      icon: fab fa-vimeo-v
 ---

@@ -42,7 +42,7 @@ body {
     padding: 2em;
 }
 
-/* Create three equal columns that floats next to each other */
+/* Create 2 equal columns that floats next to each other */
 .social {
     float: left;
     width: 50%;
@@ -76,7 +76,6 @@ body {
   }
 }
 
-
 .site-footer a {
     color: #f0f0f0;
 }
@@ -105,7 +104,6 @@ body {
 .social a {
     padding: 1em;
 }
-
 
 @media (max-width: 700px) {
     .flash-region > .flash-img {

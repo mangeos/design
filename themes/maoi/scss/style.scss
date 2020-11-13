@@ -4,12 +4,13 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/brands';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
+@import '../../shared/scss/base';
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
 @import 'old';
 
 * {
-    font-family: 'Roboto', 'sans-serif';
+    font-family: $font-stack1;
 }
 
 h1,
@@ -18,5 +19,11 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans', 'sans-serif';
+    font-family: $font-stack2;
+}
+
+.site-footer {
+    .social {
+            font-size: 30px;
+    }
 }
