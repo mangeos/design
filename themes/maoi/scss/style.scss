@@ -6,6 +6,9 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../shared/scss/base';
 
+@import 'report';
+@import 'kmom';
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
 @import 'old';
 
@@ -24,6 +27,6 @@ h6 {
 
 .site-footer {
     .social {
-            font-size: 20px;
+        font-size: 20px;
     }
 }

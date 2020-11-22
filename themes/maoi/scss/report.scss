@@ -1,0 +1,55 @@
+.container {
+    max-width: 48em;
+    padding: 0 0.5em;
+    margin: 0 auto;
+}
+
+.landingpage {
+    display: grid;
+    gap: 3em 3em;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 1em;
+}
+
+.landingpage h1 {
+    grid-column: span 3;
+    justify-self: center;
+}
+
+.kmom-box {
+    grid-column: span 1;
+    border: 1px solid rgba(0, 0, 0, 0.31);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.kmom-box.project {
+    grid-column: span 3;
+}
+
+.kmom-box a {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    background-color: #484f53;
+    border-radius: 10px 10px 0 0;
+}
+
+.kmom-box a h3 {
+    padding: 0.7em;
+}
+
+.kmom-box p {
+    padding: 1.5em 0.5em;
+    margin: 0;
+}
+
+@media (max-width: 767px) {
+    .kmom-box,
+    .landingpage h1,
+    .kmom-box.project {
+        grid-column: span 3;
+    }
+}
