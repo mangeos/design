@@ -6900,8 +6900,6 @@ a {
 }
 * {
   box-sizing: border-box;
-  margin: 0;
-  padding: 0;
 }
 
 html, body {
@@ -6919,7 +6917,6 @@ body {
   flex: 0 0 auto;
   background: url("../../../assets/img/landscape.jpg") no-repeat center fixed;
   background-size: cover;
-  height: 300px;
 }
 
 .site-header a, .site-header a:visited {
@@ -7010,6 +7007,20 @@ h6 {
   font-family: "Open Sans", "sans-serif";
 }
 
+.main {
+  background: #F5F5F5;
+}
+
+.main p {
+  margin-bottom: 1em;
+}
+
+.site-footer p {
+  color: #F5F5F5;
+}
+.site-footer h3 {
+  color: #F5F5F5;
+}
 .site-footer .social {
   font-size: 20px;
 }

@@ -5,6 +5,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../shared/scss/base';
+@import '../../shared/scss/variables';
 
 @import 'report';
 @import 'kmom';
@@ -25,7 +26,22 @@ h6 {
     font-family: $font-stack2;
 }
 
+.main {
+    background: $colorWhite;
+}
+
+.main p {
+    margin-bottom: 1em;
+}
+
 .site-footer {
+    p {
+        color: $colorWhite;
+    }
+    h3 {
+        color: $colorWhite;
+
+    }
     .social {
         font-size: 20px;
     }

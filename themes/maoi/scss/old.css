@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
 
 }
 
@@ -21,7 +19,6 @@ body {
     flex: 0 0 auto;
     background: url('../../../assets/img/landscape.jpg') no-repeat center fixed;
     background-size: cover;
-    height: 300px;
 }
 
 .site-header a, .site-header a:visited {

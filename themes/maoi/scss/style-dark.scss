@@ -5,6 +5,8 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../shared/scss/base';
+@import '../../shared/scss/variables';
+
 
 @import 'report';
 @import 'kmom';
@@ -14,12 +16,16 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 * {
     font-family: $font-stack1;
-    color: white;
+    color: $colorWhite;
 }
 
 .sidebar a,
 .site-header #nav a {
-    color: white;
+    color: $colorWhite;
+}
+
+.main p {
+    margin-bottom: 1em;
 }
 
 h1,
@@ -38,15 +44,26 @@ h6 {
 }
 
 .main {
-    background-color: #323232;
+    background-color: $darkStyle;
 }
 
 .site-footer {
-    background-color: black;
+    background-color: $colorBlack;
 }
 
 .site-header {
     flex: 0 0 auto;
     background: url('../../../assets/img/landscape.jpg') no-repeat center fixed;
     background-size: cover;
+    filter: grayscale(60%);
+}
+
+.bildStart {
+    filter: grayscale(60%);
+}
+
+.container p {
+    a {
+        color: $colorWhite;
+    }
 }
