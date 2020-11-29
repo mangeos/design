@@ -6999,6 +6999,12 @@ body {
 
 * {
   font-family: "Roboto", "sans-serif";
+  color: white;
+}
+
+.sidebar a,
+.site-header #nav a {
+  color: white;
 }
 
 h1,
@@ -7012,6 +7018,14 @@ h6 {
 
 .site-footer .social {
   font-size: 20px;
+}
+
+.main {
+  background-color: #323232;
+}
+
+.site-footer {
+  background-color: black;
 }
 
 .site-header {

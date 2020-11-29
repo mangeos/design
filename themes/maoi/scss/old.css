@@ -19,9 +19,9 @@ body {
 
 .site-header {
     flex: 0 0 auto;
-    background-color: #aac7ef;
-    color: #2b2e30;
-    padding: 0 2em;
+    background: url('../../../assets/img/landscape.jpg') no-repeat center fixed;
+    background-size: cover;
+    height: 300px;
 }
 
 .site-header a, .site-header a:visited {
@@ -37,7 +37,7 @@ body {
 
 /* Footer */
 .site-footer {
-    background: #aac7ef;
+    background: #484F53;
     color: #2b2e30;
     padding: 2em;
 }
@@ -82,6 +82,7 @@ body {
 
 .logo {
     float: left;
+    padding: 1em;
 }
 
 .logo > a > img {
@@ -94,25 +95,7 @@ body {
     padding-top: 1em;
 }
 
- .flash-region .flash-img {
-    width: 100%;
-    height: 250px;
-    border-radius: 5px;
-    opacity: 0.5;
-}
-
 .social a {
     padding: 1em;
-}
-
-@media (max-width: 700px) {
-    .flash-region > .flash-img {
-        width: 100%;
-        height: 150px;
-        border-radius: 5px;
-    }
-}
-
-.social p {
     text-align: center;
 }
