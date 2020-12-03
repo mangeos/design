@@ -5,7 +5,6 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../shared/scss/base';
-@import '../../shared/scss/variables';
 
 @import 'report';
 @import 'kmom';
@@ -27,7 +26,7 @@ h6 {
 }
 
 .main {
-    background: $colorWhite;
+    background: $colorwhite;
 }
 
 .main p {
@@ -35,14 +34,17 @@ h6 {
 }
 
 .site-footer {
-    background-color: $colorFooter;
+    background-color: $colorfooter;
+
     p {
-        color: $colorWhite;
+        color: $colorwhite;
     }
+
     h3 {
-        color: $colorWhite;
+        color: $colorwhite;
 
     }
+
     .social {
         font-size: 20px;
     }

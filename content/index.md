@@ -19,7 +19,7 @@ Jag har rest en del också mest i sydostasien och sydamerka.
 Jag har ganska många intressen, resor är ett utav
 dom, men det stora intresset har alltid varit fotboll.
 
-<img style="width: 40%; padding: 1em; float: right;" class="bildStart" src="assets/img/ipanema.jpg">
+<img style="width: 40%; padding: 1em; float: right;" class="bildstart" src="assets/img/ipanema.jpg">
 
 Jag spelar ett nördspel kanske lite för mycket som heter football manager på datorn.
 

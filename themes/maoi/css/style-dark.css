@@ -6996,12 +6996,12 @@ body {
 
 * {
   font-family: "Roboto", "sans-serif";
-  color: #F5F5F5;
+  color: #f5f5f5;
 }
 
 .sidebar a,
-.site-header #nav a {
-  color: #F5F5F5;
+.site-header a {
+  color: #f5f5f5;
 }
 
 .main p {
@@ -7026,7 +7026,7 @@ h6 {
 }
 
 .site-footer {
-  background-color: #000000;
+  background-color: #000;
 }
 
 .site-header {
@@ -7036,10 +7036,10 @@ h6 {
   filter: grayscale(60%);
 }
 
-.bildStart {
+.bildstart {
   filter: grayscale(60%);
 }
 
 .container p a {
-  color: #F5F5F5;
+  color: #f5f5f5;
 }

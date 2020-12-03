@@ -5,8 +5,6 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/solid';
 @import '../../shared/fontawesome/scss/regular';
 @import '../../shared/scss/base';
-@import '../../shared/scss/variables';
-
 
 @import 'report';
 @import 'kmom';
@@ -16,12 +14,12 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 * {
     font-family: $font-stack1;
-    color: $colorWhite;
+    color: $colorwhite;
 }
 
 .sidebar a,
-.site-header #nav a {
-    color: $colorWhite;
+.site-header a {
+    color: $colorwhite;
 }
 
 .main p {
@@ -44,11 +42,11 @@ h6 {
 }
 
 .main {
-    background-color: $darkStyle;
+    background-color: $darkstyle;
 }
 
 .site-footer {
-    background-color: $colorBlack;
+    background-color: $colorblack;
 }
 
 .site-header {
@@ -58,12 +56,12 @@ h6 {
     filter: grayscale(60%);
 }
 
-.bildStart {
+.bildstart {
     filter: grayscale(60%);
 }
 
 .container p {
     a {
-        color: $colorWhite;
+        color: $colorwhite;
     }
 }
