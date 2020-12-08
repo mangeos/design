@@ -10,6 +10,7 @@ a {
     'sidebar main'
     'footer footer';
     grid-gap: 12%;
+    padding-right: 1em;
 }
 
 .kmom {
@@ -42,8 +43,26 @@ a {
         display: flex;
         flex-direction: column;
     }
-    
+
     .sidebar {
         display: none !important;
     }
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
