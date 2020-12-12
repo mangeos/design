@@ -65,13 +65,15 @@
     <div class="main" id="main" role="main">
         <div class="gallery">
 
-            {% for item in meta.image %}
+            {% for image in meta.images %}
                 <div>
-                    <picture>
-                    <a href="{{base_url}}/assets/img/christmas/{{item.url}}"><source media="(min-width: 668px)" srcset="{{base_url}}/assets/img/christmas/{{item.url}}"></a>
-                        <source media="(min-width: 376px)" srcset="{{base_url}}/assets/img/christmas/{{item.url}}&w=667">
-                        <a href="{{base_url}}/assets/img/christmas/{{item.url}}"><img src="{{base_url}}/assets/img/christmas/{{item.url}}&w=375" alt="{{item.alt}}"></a>
-                    </picture>
+                    <a href="{{ base_url }}/image/gallery/{{ image.url }}" target="_blank">
+                       <picture>
+                           <source media="(min-width: 668px)" srcset="{{ base_url }}/image/gallery/{{ image.url }}?crop-to-fit&aspect-ratio=1:1">
+                           <source media="(min-width: 376px)" srcset="{{ base_url }}/image/gallery/{{ image.url }}?crop-to-fit&aspect-ratio=1:1&w=667">
+                           <img src="{{ base_url }}/image/gallery/{{ image.url }}?crop-to-fit&aspect-ratio=1:1&w=375" alt="{{ image.alt }}">
+                       </picture>
+                   </a>
                 </div>
             {% endfor %}
         </div>
