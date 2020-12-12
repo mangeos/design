@@ -28,9 +28,9 @@ Resultat
 ---
 
 <ul>
-    <li><a href="../assets/img/skärmbild (26).png">Bth Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (27).png">Bth Bibliotek-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (28).png">Bth Om-skärmdump</a></li>
+    <li><a href="../assets/img/bth1.png">Bth Startsida-skärmdump</a></li>
+    <li><a href="../assets/img/bth2.png">Bth Bibliotek-skärmdump</a></li>
+    <li><a href="../assets/img/bth3.png">Bth Om-skärmdump</a></li>
 </ul>
 
 Bth startsida fick ett psi värde på 72 med dator och 19 med mobil. En laddningstid på 13,69 s med 56 st resurser med en total storlek på 3,70 MB / 1,32 MB.
@@ -79,9 +79,9 @@ Enligt google pagespeed så kan dessa förslag hjälpa sidan att läsas in snabb
 ---
 
 <ul>
-    <li><a href="../assets/img/skärmbild (29).png">Lu Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (30).png">Lu Bibliotek-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (31).png">Lu Om-skärmdump</a></li>
+<li><a href="../assets/img/lund1.png">Lu Startsida-skärmdump</a></li>
+<li><a href="../assets/img/lund2.png">Lu Bibliotek-skärmdump</a></li>
+<li><a href="../assets/img/lund3.png">Lu Om-skärmdump</a></li>
 </ul>
 
 Lu startsida fick ett psi värde på 65 med dator och 34 med mobil. En laddningstid på 4,6 s med 26 st resurser med en total storlek på 2,67 MB / 0 B.
@@ -132,9 +132,9 @@ Enligt google pagespeed så kan dessa förslag hjälpa sidan att läsas in snabb
 ---
 
 <ul>
-    <li><a href="../assets/img/skärmbild (34).png">Lu Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (32).png">Lu Bibliotek-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (33).png">Lu Om-skärmdump</a></li>
+    <li><a href="../assets/img/lnu1.png">Lu Startsida-skärmdump</a></li>
+    <li><a href="../assets/img/lnu2.png">Lu Bibliotek-skärmdump</a></li>
+    <li><a href="../assets/img/lnu3.png">Lu Om-skärmdump</a></li>
 </ul>
 
 Lnu startsida fick ett psi värde på 91 med dator och 64 med mobil. En laddningstid på 6,40 s med 12 st resurser med en total storlek på 475,32 kB / 450,14kB.

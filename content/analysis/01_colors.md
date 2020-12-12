@@ -29,9 +29,9 @@ Resultat
 ---
 
 <ul>
-    <li><a href="../assets/img/skärmbild (23).png">Ica Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (24).png">Ica hemsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (25).png">Ica footer-skärmdump</a></li>
+    <li><a href="../assets/img/ica1.png">Ica Startsida-skärmdump</a></li>
+    <li><a href="../assets/img/ica2.png">Ica hemsida-skärmdump</a></li>
+    <li><a href="../assets/img/ica3.png">Ica footer-skärmdump</a></li>
 </ul>
 
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -57,9 +57,9 @@ Resultat
 <a href="https://hemkop.se">Hemköp</a> <br>
 ---
 <ul>
-    <li><a href="../assets/img/skärmbild (20).png">hemköp Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (21).png">hemköp hemsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (22).png">hemköp footer-skärmdump</a></li>
+    <li><a href="../assets/img/hem1.png">hemköp Startsida-skärmdump</a></li>
+    <li><a href="../assets/img/hem2.png">hemköp hemsida-skärmdump</a></li>
+    <li><a href="../assets/img/hem3.png">hemköp footer-skärmdump</a></li>
 </ul>
 
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -86,9 +86,9 @@ Resultat
 <a href="https://willys.se">Willys</a> <br>
 ---
 <ul>
-    <li><a href="../assets/img/skärmbild (17).png">willys Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (18).png">willys hemsida-skärmdump</a></li>
-    <li><a href="../assets/img/skärmbild (19).png">willys footer-skärmdump</a></li>
+    <li><a href="../assets/img/willy1.png">willys Startsida-skärmdump</a></li>
+    <li><a href="../assets/img/willy2.png">willys hemsida-skärmdump</a></li>
+    <li><a href="../assets/img/willy3.png">willys footer-skärmdump</a></li>
 </ul>
 
 <table style="border-spacing: 4px; border-collapse: separate">
