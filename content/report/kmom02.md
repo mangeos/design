@@ -4,16 +4,16 @@ Description: Part 2
 Template: kmom
 ---
 <div class="sidebar">
-    <h3><a href="kmom01">kmom01</a></h3>
-    <h3><a href="kmom02">kmom02</a></h3>
-    <h3><a href="kmom03">kmom03</a></h3>
-    <h3><a href="kmom04">kmom04</a></h3>
-    <h3><a href="kmom05">kmom05</a></h3>
-    <h3><a href="kmom06">kmom06</a></h3>
-    <h3><a href="project">projekt</a></h3>
+    <h1><a href="kmom01">kmom01</a></h1>
+    <h1><a href="kmom02">kmom02</a></h1>
+    <h1><a href="kmom03">kmom03</a></h1>
+    <h1><a href="kmom04">kmom04</a></h1>
+    <h1><a href="kmom05">kmom05</a></h1>
+    <h1><a href="kmom06">kmom06</a></h1>
+    <h1><a href="project">projekt</a></h1>
 </div>
 <div class="kmom">
-<h1>Kursmoment 2</h1>
+<h2>Kursmoment 2</h2>
 
 <h3> Vad tycker du om SASS än så länge? </h3>
 
@@ -55,6 +55,6 @@ Jag lärde mig även att normalize.css är till för att normalisera vår style 
 </div>
 
 <div class="main-footer">
-    <a href="kmom01"><i class="fas fa-chevron-left"></i></a>
-    <a href="kmom03"><i class="fas fa-chevron-right"></i></a>
+    <a href="kmom01" aria-label="kmom01"><i class="fas fa-chevron-left"></i></a>
+    <a href="kmom03" aria-label="kmom03"><i class="fas fa-chevron-right"></i></a>
 </div>

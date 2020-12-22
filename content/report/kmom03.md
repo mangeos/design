@@ -4,16 +4,16 @@ Description: Part 3
 Template: kmom
 ---
 <div class="sidebar">
-    <h3><a href="kmom01">kmom01</a></h3>
-    <h3><a href="kmom02">kmom02</a></h3>
-    <h3><a href="kmom03">kmom03</a></h3>
-    <h3><a href="kmom04">kmom04</a></h3>
-    <h3><a href="kmom05">kmom05</a></h3>
-    <h3><a href="kmom06">kmom06</a></h3>
-    <h3><a href="project">projekt</a></h3>
+    <h1><a href="kmom01">kmom01</a></h1>
+    <h1><a href="kmom02">kmom02</a></h1>
+    <h1><a href="kmom03">kmom03</a></h1>
+    <h1><a href="kmom04">kmom04</a></h1>
+    <h1><a href="kmom05">kmom05</a></h1>
+    <h1><a href="kmom06">kmom06</a></h1>
+    <h1><a href="project">projekt</a></h1>
 </div>
 <div class="kmom">
-<h1>Kursmoment 3</h1>
+<h2>Kursmoment 3</h2>
     <h3> Hur har det gått att jobba med CSS-Grid/Flexbox?</h3>
         <p>Det har gått ganska bra. <br>
             Det finns mycket att lära sig och det har varit ganska krångligt att få det bra. <br>
@@ -37,6 +37,6 @@ Template: kmom
              vilket jag också ska jobba vidare med, dom kommande veckorna.</p>
 </div>
 <div class="main-footer">
-    <a href="kmom02"><i class="fas fa-chevron-left"></i></a>
-    <a href="kmom04"><i class="fas fa-chevron-right"></i></a>
+    <a href="kmom02" aria-label="kmom02"><i class="fas fa-chevron-left"></i></a>
+    <a href="kmom04" aria-label="kmom04"><i class="fas fa-chevron-right"></i></a>
 </div>

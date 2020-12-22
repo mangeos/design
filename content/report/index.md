@@ -4,40 +4,39 @@ Description: The course report page
 Template: report
 ---
 
-Redovisning
-==================
+<h1>Redovisning</h1>
 
 <div class="kmom-box">
-    <a href="report/kmom01"><h3>kmom01</h3></a>
+    <a href="report/kmom01"><h2>kmom01</h2></a>
     <p>some text..</p>
 </div>
 
 <div class="kmom-box">
-    <a href="report/kmom02"><h3>kmom02</h3></a>
+    <a href="report/kmom02"><h2>kmom02</h2></a>
     <p>some text..</p>
 </div>
 
 <div class="kmom-box">
-    <a href="report/kmom03"><h3>kmom03</h3></a>
+    <a href="report/kmom03"><h2>kmom03</h2></a>
     <p>some text..</p>
 </div>
 
 <div class="kmom-box">
-    <a href="report/kmom04"><h3>kmom04</h3></a>
+    <a href="report/kmom04"><h2>kmom04</h2></a>
     <p>some text..</p>
 </div>
 
 <div class="kmom-box">
-    <a href="report/kmom05"><h3>kmom05</h3></a>
+    <a href="report/kmom05"><h2>kmom05</h2></a>
     <p>some text..</p>
 </div>
 
 <div class="kmom-box">
-    <a href="report/kmom06"><h3>kmom06</h3></a>
+    <a href="report/kmom06"><h2>kmom06</h2></a>
     <p>some text..</p>
 </div>
 
 <div class="kmom-box project">
-    <a href="report/kmom10"><h3>kmom10</h3></a>
+    <a href="report/kmom10"><h2>kmom10</h2></a>
     <p>some text..</p>
 </div>

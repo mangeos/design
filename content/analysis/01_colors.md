@@ -43,9 +43,9 @@ Resultat
 </tr>
 </table>
 
-<p>Icas hemsida är framförallt vit och bakgrundsfärgen är <span style="color:black; height:50px; width: 50px; background-color:#FFFFFF">#FFFFFF</span>
-     och <span style="color:black; height:50px; width: 50px; background-color:#F9F5F5">#F9F5F5</span> <br>
-     Headern och footern är också väldigt vita dock är headern röd och har färgkoden: <span style="color:black; height:50px; width: 50px; background-color:#E3000B">#E3000B</span> Accentfärgen är av färgkoden: <span style="color:black; background:#FCECE7;height:50px; width: 50px;">#FCECE7</span> <br>
+<p>Icas hemsida är framförallt vit och bakgrundsfärgen är <span style="border: solid black 1px; color:black; height:50px; width: 50px; background-color:#FFFFFF">#FFFFFF</span>
+     och <span style="color:black; border: solid black 1px; height:50px; width: 50px;">#F9F5F5</span> <br>
+     Headern och footern är också väldigt vita dock är headern röd och har färgkoden: <span style=" border: solid black 1px; color:black; height:50px; width: 50px;">#E3000B</span> Accentfärgen är av färgkoden: <span style="border: solid black 1px; color:black; background:#FCECE7;height:50px; width: 50px;">#FCECE7</span> <br>
      Ica använder sig utav ett monokromatiskt färgschema med en röd basfärg och olika nyanser av den. Men större delen av sidans bakgrund är vit. <br>
      Ica har typsnittet på:<br>
      h2 = font-family: icarubrik. <br>
@@ -73,8 +73,8 @@ Resultat
 
 <p>Hemköps hemsida har en röd header och footer med färgkoden: <span style="color:black; background:#EE1C2E;">#EE1C2E</span> <br>
     och en vit bakgrundsfärgen med färgkoden:
-    <span style="color:black; height:50px; width: 50px; background-color:#FFFFFF">#FFFFFF</span> <br>
-     Accentfärgen är av färgkoden: <span style="color:black; height:50px; width: 50px; background-color:#ECBFBB">#ECBFBB</span> <br>
+    <span style="color:black; height:50px; width: 50px;">#FFFFFF</span> <br>
+     Accentfärgen är av färgkoden: <span style="color:black; height:50px; width: 50px;">#ECBFBB</span> <br>
      Hemköp använder sig utav ett monokromatiskt färgschema med en röd basfärg och olika nyanser av den. Men en större del av sidans bakgrund är vit precis som med icas hemsida. <br>
      Hemköp har typsnittet på:<br>
      h1, h2, h3 och h4 = Sentinel och serif. <br>
@@ -101,10 +101,10 @@ Resultat
 </table>
 
 
-<p>Willys hemsida har en röd och svart header och footern är svart med färgkoderna: <span style="color:#E60019; background:#000000;">#000000</span> <span style="color:black; background:#E60019;">#E60019</span> <br>
+<p>Willys hemsida har en röd och svart header och footern är svart med färgkoderna: <span>#000000</span> <span style="color:black;">#E60019</span> <br>
     och en vit bakgrundsfärg med färgkoden:
-    <span style="color:black; height:50px; width: 50px; background-color:#F6F6F6">#F6F6F6</span> <br>
-     Accentfärgen är av färgkoden: <span style="color:black; height:50px; width: 50px; background-color:#FFE600">#FFE600</span> <br>
+    <span style="color:black; height:50px; width: 50px">#F6F6F6</span> <br>
+     Accentfärgen är av färgkoden: <span style="color:black; height:50px; width: 50px">#FFE600</span> <br>
      Willys använder sig utav ett monokromatiskt färgschema med en röd basfärg och olika nyanser av den. Men en större del av sidans bakgrund är vit precis som med Icas och Hemköps hemsida. Här är dock footern också svart.<br>
      willys har typsnittet på:<br>
      h2 = GothamSerif och serif. <br>

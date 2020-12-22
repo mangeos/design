@@ -4,17 +4,17 @@ Description: Part 1
 Template: kmom
 ---
 <div class="sidebar">
-    <h3><a href="kmom01">kmom01</a></h3>
-    <h3><a href="kmom02">kmom02</a></h3>
-    <h3><a href="kmom03">kmom03</a></h3>
-    <h3><a href="kmom04">kmom04</a></h3>
-    <h3><a href="kmom05">kmom05</a></h3>
-    <h3><a href="kmom06">kmom06</a></h3>
-    <h3><a href="project">projekt</a></h3>
+    <h1><a href="kmom01">kmom01</a></h1>
+    <h1><a href="kmom02">kmom02</a></h1>
+    <h1><a href="kmom03">kmom03</a></h1>
+    <h1><a href="kmom04">kmom04</a></h1>
+    <h1><a href="kmom05">kmom05</a></h1>
+    <h1><a href="kmom06">kmom06</a></h1>
+    <h1><a href="project">projekt</a></h1>
 </div>
 <div class="kmom">
 
-<h1>Kursmoment 1<h1/>
+<h2>Kursmoment 1<h2/>
 
 <h3> Har du jobbat med ramverk eller andra CMS:er tidigare? </h3>
 
@@ -44,5 +44,5 @@ Jag har lärt mig en hel del under bara denna vecka och det ska bli kul att få 
 </div>
 
 <div class="main-footer">
-    <a href="kmom02"><i class="fas fa-chevron-right"></i></a>
+    <a href="kmom02" aria-label="Kmom03"><i class="fas fa-chevron-right"></i></a>
 </div>

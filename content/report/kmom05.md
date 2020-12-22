@@ -4,18 +4,18 @@ Description: Part 5
 Template: kmom
 ---
 <div class="sidebar">
-    <h3><a href="kmom01">kmom01</a></h3>
-    <h3><a href="kmom02">kmom02</a></h3>
-    <h3><a href="kmom03">kmom03</a></h3>
-    <h3><a href="kmom04">kmom04</a></h3>
-    <h3><a href="kmom05">kmom05</a></h3>
-    <h3><a href="kmom06">kmom06</a></h3>
-    <h3><a href="project">projekt</a></h3>
+    <h1><a href="kmom01">kmom01</a></h1>
+    <h1><a href="kmom02">kmom02</a></h1>
+    <h1><a href="kmom03">kmom03</a></h1>
+    <h1><a href="kmom04">kmom04</a></h1>
+    <h1><a href="kmom05">kmom05</a></h1>
+    <h1><a href="kmom06">kmom06</a></h1>
+    <h1><a href="project">projekt</a></h1>
 </div>
 <div class="kmom">
-    <h1>Kursmoment 5</h1>
+    <h2>Kursmoment 5</h2>
         <div class="embed-container">
-            <iframe src= "https://www.youtube.com/embed/-TzMAybyp_Q" frameborder="0" allowfullscreen>
+            <iframe title="Youtube" src= "https://www.youtube.com/embed/-TzMAybyp_Q" frameborder="0" allowfullscreen>
             </iframe>
         </div>
 
@@ -44,6 +44,6 @@ Template: kmom
 </div>
 
 <div class="main-footer">
-    <a href="kmom03"><i class="fas fa-chevron-left"></i></a>
-    <a href="kmom05"><i class="fas fa-chevron-right"></i></a>
+    <a href="kmom04" aria-label="kmom04"><i class="fas fa-chevron-left"></i></a>
+    <a href="kmom06" aria-label="kmom04"><i class="fas fa-chevron-right"></i></a>
 </div>
