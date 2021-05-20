@@ -21,7 +21,9 @@ Template: kmom
             Men med denna kursen så har det klarnat lite vad man åtminstone ska tänka på.</p>
     <h3>Finns det något speciellt du vill lyfta fram från uppgiften “Utvärdera designprinciper som webbplatser använder sig av”. Vad tar du med dig från  den uppgiften?</h3>
         <p>Jag tycker det har varit ganska jobbigt att skriva rapporter men jag ser det som en bra träning att få ha gjort det till framtiden.
-            Det jag tar med mig från uppgiften är att man ska tänka på sin struktur på hemsidorna så det blir en bra balans.</p>
+            Det jag tar med mig från uppgiften är att man ska tänka på sin struktur på hemsidorna så det blir en bra balans.
+            Jag tar även med mig dom 20 principerna som vi har gått igenom vilket kommer vara till ett bra stöd när man designar.
+            Det var även lärorikt att få Sammanfatta sitt resultat i en analys och skriva generellt om sin studie.</p>
     <h3>Gjorde du några uppdateringar till din egen sida utifrån vad du kom fram till i analysen?</h3>
         <p>Jo jag gjorde några enkla förändringar.
          I footern fixade jag så att iconerna blev finare.
