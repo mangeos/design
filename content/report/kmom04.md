@@ -10,7 +10,7 @@ Template: kmom
     <h1><a href="kmom04">kmom04</a></h1>
     <h1><a href="kmom05">kmom05</a></h1>
     <h1><a href="kmom06">kmom06</a></h1>
-    <h1><a href="project">projekt</a></h1>
+    <h1><a href="projekt">projekt</a></h1>
 </div>
 <div class="kmom">
 <h2>Kursmoment 4</h2>

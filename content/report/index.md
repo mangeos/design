@@ -37,6 +37,6 @@ Template: report
 </div>
 
 <div class="kmom-box project">
-    <a href="report/kmom10"><h2>kmom10</h2></a>
+    <a href="report/projekt"><h2>projekt</h2></a>
     <p>some text..</p>
 </div>

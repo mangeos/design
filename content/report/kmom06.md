@@ -10,7 +10,7 @@ Template: kmom
     <h1><a href="kmom04">kmom04</a></h1>
     <h1><a href="kmom05">kmom05</a></h1>
     <h1><a href="kmom06">kmom06</a></h1>
-    <h1><a href="project">projekt</a></h1>
+    <h1><a href="projekt">projekt</a></h1>
 </div>
 <div class="kmom">
     <h2>Kursmoment 6</h2>
@@ -40,5 +40,5 @@ Template: kmom
 
 <div class="main-footer">
     <a href="kmom05" aria-label="kmom04"><i class="fas fa-chevron-left"></i></a>
-    <a href="kmom06" aria-label="kmom04"><i class="fas fa-chevron-right"></i></a>
+    <a href="projekt" aria-label="kmom04"><i class="fas fa-chevron-right"></i></a>
 </div>

@@ -132,9 +132,9 @@ Enligt google pagespeed så kan dessa förslag hjälpa sidan att läsas in snabb
 ---
 
 <ul>
-    <li><a href="../assets/img/lnu1.png">Lu Startsida-skärmdump</a></li>
-    <li><a href="../assets/img/lnu2.png">Lu Bibliotek-skärmdump</a></li>
-    <li><a href="../assets/img/lnu3.png">Lu Om-skärmdump</a></li>
+    <li><a href="../assets/img/lnu1.png">Lnu Startsida-skärmdump</a></li>
+    <li><a href="../assets/img/lnu2.png">Lnu Bibliotek-skärmdump</a></li>
+    <li><a href="../assets/img/lnu3.png">Lnu Om-skärmdump</a></li>
 </ul>
 
 Lnu startsida fick ett psi värde på 91 med dator och 64 med mobil. En laddningstid på 6,40 s med 12 st resurser med en total storlek på 475,32 kB / 450,14kB.
@@ -210,5 +210,11 @@ Min uppfattning är att om en sida tar mer än ca 3-5 sekunder att ladda så få
 
 Övrigt
 -----------------------
+
+Här lägger jag in mina bilder på sidorna som jag analyserat
+
+<a href="../assets/img/bth1.png">Bth Startsida-skärmdump</a> <br>
+<a href="../assets/img/lund1.png">Lu Startsida-skärmdump</a> <br>
+<a href="../assets/img/lnu1.png">Lnu Startsida-skärmdump</a>
 
 Rapporten är skriven av Magnus Östling.
